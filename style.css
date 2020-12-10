@@ -1,0 +1,19 @@
+html {
+    background-color: antiquewhite;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 30px;
+    padding: 20px;
+  
+    border-top: 10px solid #000000;
+    background: antiquewhite;
+}
+.NAME {
+   
+    position: sticky;
+    text-align: center;
+    font-size: 1em;
+    top: 0;
+}
